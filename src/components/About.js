@@ -20,7 +20,7 @@ export const About = () => {
         neglected This app is built with Canvas,JavaScript,React and Physics.
       </p>
       <p>Liked it ? Support me by just giving a star on this repository</p>
-      <a href="!#">
+      <a href="https://github.com/PremPachabhaiyamagar/Gravity_simulation">
         <AiFillGithub className="git" />
       </a>
     </div>
